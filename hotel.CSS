@@ -1,9 +1,4 @@
-* {
-    margin: 0;
-    padding: 2px;
-    box-sizing: border-box; 
-  }
-  /* General body styles */ 
+
   body {
     font-family: "Poppins", sans-serif;
     background-color: #f0707f;
@@ -204,3 +199,4 @@
 
 
   
+
